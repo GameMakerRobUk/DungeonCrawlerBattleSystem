@@ -1,0 +1,10 @@
+What are my goals with this project?
+
+1) To be able to create skills from constructors.
+2) For the Skills to know their name, to be displayed in menus etc
+3) For the Skills to know what to do when "Activated"
+
+
+Simplify
+1) Have a menu display the available skills
+2) Have the skills fire off their result upon activation
